@@ -1,0 +1,28 @@
+[
+  {
+    "job_title": "Software Engineer",
+    "company_name": "Techify Inc.",
+    "location": "New York, NY",
+    "date_posted": "2025-10-28",
+    "job_description": "Develop and maintain backend APIs using Python and Node.js.",
+    "seniority_level": "Mid-Level",
+    "employment_type": "Full-Time",
+    "industries": [
+      "Software Development",
+      "Information Technology"
+    ]
+  },
+  {
+    "job_title": "Data Analyst",
+    "company_name": "Insight Labs",
+    "location": "London, UK",
+    "date_posted": "2025-10-30",
+    "job_description": "Analyze market data and create predictive models using SQL and Python.",
+    "seniority_level": "Entry-Level",
+    "employment_type": "Full-Time",
+    "industries": [
+      "Data Analytics",
+      "Consulting"
+    ]
+  }
+]
